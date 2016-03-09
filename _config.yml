@@ -1,7 +1,7 @@
 name: SLK Style
 favicon: null
-layout_spectrum: 0.5215150299482048
-typography_spectrum: 0.738798342179507
+layout_spectrum: 0.7591
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#7e7881'
+    - '#ffffff'
+    - '#fcd4ca'
+    - '#ada9af'
+    - '#9f9094'
   brandStrength: 0.9598714620806277
-  lightness: 0.8992526335641742
-  saturation: 0.1937406782526523
-  rhythmicContrast: 0.198378054657951
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
